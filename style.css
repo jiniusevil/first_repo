@@ -1,0 +1,27 @@
+#subwelcome{
+    color : rgb(49, 40, 83);
+    font-size: 40px;
+    margin-bottom: 0px;
+    background-color: rgb(174, 211, 211);
+    width : 70%;
+    text-align: left;
+    padding-left: 10%;
+}
+
+.title{
+    text-align: center;
+    font-size: 70px;
+    color:rgb(117, 203, 243);
+}
+
+#bigpicture{
+    width : 80%;
+}
+
+#imgcontainer{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
