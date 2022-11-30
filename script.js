@@ -7,4 +7,5 @@ let change = () =>{
     const bigWords = document.getElementsByClassName("title");
     bigWords[0].style.color="green";
     bigWords[1].style.fontSize="20px";
+    console.log("Bye!")
 }
