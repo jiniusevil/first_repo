@@ -25,3 +25,14 @@
 body{
     text-align: center;
 }
+
+.butt{
+    color : rgb(49, 40, 83);
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-right: 10%;
+    background-color: rgb(141, 141, 148);
+    width : 70%;
+    text-align: right;
+    padding-right: 10%;
+}

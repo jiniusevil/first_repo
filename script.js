@@ -1,0 +1,9 @@
+let count = 0;
+
+let change = () =>{
+    count++;
+    console.log("Hello for the " + count + "th time...");
+    document.body.style.backgroundColor = "pink";
+    const bigWords = document.getElementsByClassName("title");
+    bigWords[0].style.color="green";
+}
